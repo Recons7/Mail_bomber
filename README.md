@@ -4,7 +4,7 @@
 
 This Tool Can Bomb up to 9999999999+ Mails very rapidly! 
 
-# Termux Installation:
+# In Termux !
 
 1) pkg install python && pkg install python2
 
