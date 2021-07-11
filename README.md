@@ -10,11 +10,13 @@ This Tool Can Bomb up to 9999999999+ Mails very rapidly!
 
 2) pkg install git
 
-3) git clone https://github.com/Recons7/Mail_bomber.git
+3) pip install termcolor
 
-4) cd Mail_bomber 
+4) git clone https://github.com/Recons7/Mail_bomber.git
 
-5) python3 mailbomb.py
+5) cd Mail_bomber 
+
+6) python3 mailbomb.py
 
 
 # How To Use !
