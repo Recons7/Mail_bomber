@@ -10,6 +10,8 @@ if __name__=='__main__':
 		p.write(pd)
 		p.close()
 		
+	print("\n\n     Now Run mailbomb.py\n")
+        
 		
 
 gmail = open('m.txt', 'r').read()
