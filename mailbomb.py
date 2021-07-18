@@ -16,7 +16,7 @@ ascii_art = print(colored('''
 ''',"red"))
 print("\n")
 print(colored("\t  | Developed By Suraj Sharma |","magenta"))
-print("\n\n")
+print("\n")
 server = smtplib.SMTP('smtp.gmail.com',587)
 server.starttls()
 server.login(credential.gmail, credential.pw)
