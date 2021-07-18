@@ -15,7 +15,7 @@ ascii_art = print(colored('''
                                                   
 ''',"red"))
 print("\n")
-print(colored("\t\tDeveloped By Anonymous....","green"))
+print(colored("\t  | Developed By Suraj Sharma |","magenta"))
 print("\n\n\n")
 server = smtplib.SMTP('smtp.gmail.com',587)
 server.starttls()
